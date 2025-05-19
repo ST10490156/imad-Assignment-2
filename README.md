@@ -17,17 +17,13 @@
 ```markdown
 The flashcard App is created with the intention of allowing a user to answer questions based of history and systems have been implemented for the user to answer said questions as well review their scores.
 
-## Design Considerations
+ Design Considerations
 
-The design of the **[Meal Suggestion App]** was based on the following key considerations:
-
-1. **User Experience (UX)**: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
+The design of the Flashcard App was based on the following key considerations:
+ 
+1. Simplicity: The design is minimalistic, focusing on core features without overwhelming the user.
    
-2. **Responsiveness**: The app was built to ensure it performs well on different screen sizes, with particular attention to device compatibility.
-   
-3. **Simplicity**: The design is minimalistic, focusing on core features without overwhelming the user.
-   
-4. **Performance**: Code optimization was considered to ensure fast response times and low battery usage.
+2. Performance: Code optimization was considered to ensure fast response times and low battery usage.
 ```
 
 
