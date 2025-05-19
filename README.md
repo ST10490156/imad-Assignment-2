@@ -7,6 +7,7 @@
 
 ```markdown
  Links
+
 - GitHub Repository: [https://github.com/ST10490156/imad-Assignment-2.git]
 - YouTube Video: []
 
@@ -43,8 +44,7 @@ The workflow ensures that my project is automatically built and tested every tim
 ```
 
 
-6. Screenshots and App Demo
----------------------------
+
 
 ```markdown
 ## Screenshots
@@ -63,8 +63,7 @@ A video showcasing the app's functionality can be viewed here: [https://youtu.be
 
 ---
 
-7. Challenges and Learnings
----------------------------
+
 
 ```markdown
 ## Challenges and Learnings
@@ -81,8 +80,6 @@ From these challenges, I learned important lessons in debugging, using version c
 ```
 
 
-8. Future Enhancements
-----------------------
 
 ```markdown
 ## Future Enhancements
@@ -98,8 +95,7 @@ These enhancements would improve the app’s usability and make it even more ver
 
 ---
 
-9. References
--------------
+
 
 ```markdown
 
@@ -109,8 +105,7 @@ These enhancements would improve the app’s usability and make it even more ver
 ```
 
 
-10. List of Figures
--------------------
+
 
 ```markdown
 ## List of Figures
@@ -121,8 +116,7 @@ These enhancements would improve the app’s usability and make it even more ver
 
 ---
 
-11. Disclosure of AI Usage in My Assessment
--------------------------------------------
+
 
 ```markdown
 In the development of this project, I have used generative AI tools to assist in various parts of the assignment. Below is a detailed disclosure of where and how these tools were used:
