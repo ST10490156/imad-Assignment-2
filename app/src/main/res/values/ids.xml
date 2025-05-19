@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="falseButton" type="id" />
+    <item name="feedbackText" type="id" />
+    <item name="nextButton" type="id" />
+    <item name="trueButton" type="id" />
+    <item name="questionText" type="id" />
+    <item name="scoreText" type="id" />
+    <item name="reviewButton" type="id" />
+    <item name="exitButton" type="id" />
+</resources>

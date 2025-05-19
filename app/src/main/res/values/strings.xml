@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Flash Card</string>
+    <string name="questions_found_here">Questions found here</string>
+    <string name="false">false</string>
+    <string name="feedback_will_be_found_here">Feedback will be found here.</string>
+    <string name="next_question">Next question</string>
+    <string name="false">false</string>
+    <string name="true">true</string>
+    <string name="begin_quiz">Begin Quiz</string>
+    <string name="history_flashcard_quiz">History Flashcard Quiz!</string>
+    <string name="exit_app">Exit app</string>
+    <string name="feedback_message_will_appear_here">Feedback message will appear here.</string>
+    <string name="review_of_answers">Review of answers.</string>
+    <string name="you_scored_out_of_5">You scored (...) out of 5</string>
 </resources>
