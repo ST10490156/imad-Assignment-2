@@ -121,24 +121,17 @@ These enhancements would improve the app’s usability and make it even more ver
 ```markdown
 In the development of this project, I have used generative AI tools to assist in various parts of the assignment. Below is a detailed disclosure of where and how these tools were used:
 
-- **Question 2.2**: Used AI for brainstorming ideas for the app's features.
-- **Part 5**: Assisted in creating code snippets for setting up GitHub Actions workflows.
+### 2. AI Tool(s) Used:
+- ChatGPT (OpenAI)
 
-### 2. AI Tool(s) Used:**
-- **ChatGPT** (OpenAI)
+### 3. Purpose/Intention Behind Use:
+- Brainstorming: Used ChatGPT to generate ideas for the app’s features and functionality.
+- Code Assistance: GitHub Copilot was used to assist in writing specific parts of the code, such as setting up GitHub Actions and working with Gradle.
 
-### 3. **Purpose/Intention Behind Use:**
-- **Brainstorming**: Used ChatGPT to generate ideas for the app’s features and functionality.
-- **Meaning Making**: Used AI to clarify some concepts and gain a better understanding of how certain technologies (e.g., GitHub Actions) work.
-- **Code Assistance**: GitHub Copilot was used to assist in writing specific parts of the code, such as setting up GitHub Actions and working with Gradle.
+### 4. Date(s) in Which Generative AI Was Used:
+-  AI used on **May19, 2025** for brainstorming feature ideas.
 
-### 4. **Date(s) in Which Generative AI Was Used:**
--  AI used on **March 28, 2025** for brainstorming feature ideas.
--  AI used on **April 1, 2025** to help set up GitHub Actions.
-
-### 5. **Link to the AI Chat(s) or Screenshots:**
-- **[Link to the AI conversation/chat](https://chatgpt.com/)  
-  *(https://github.com/VCSTDN2024/imad-assignment-1-ST10490156/blob/b3b8e1f877cd3899b87647dec70f41309b27dbc4/Capture.PNG)*
-
-- *[Link to the AI conversation/chat](https://chatgpt.com/)  
-  *(https://github.com/VCSTDN2024/imad-assignment-1-ST10490156/blob/51fd7e34d5995418f3a7e7e282f7c0e1261cdbc1/Capture%202.PNG)*
+### 5. Link to the AI Chat(s):
+- [Link to the AI conversation/chat](https://chatgpt.com/)  
+  
+- [Link to the AI conversation/chat](https://chatgpt.com/)  
