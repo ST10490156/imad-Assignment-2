@@ -7,25 +7,12 @@
 
 ```markdown
 ## Links
-- **GitHub Repository**: []
-- **YouTube Video**: [https://youtu.be/93p7RCbwEOU]
+- **GitHub Repository**: [https://github.com/ST10490156/imad-Assignment-2.git]
+- **YouTube Video**: []
 ```
 
 ```markdown
-The **Meal Suggestion App** is a mobile application developed as part of an assignment in the Mobile Application and Web Development subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [is to display meal choices according to the users input of time].
-
-The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
-
-### Purpose:
-The main goal of this app is to [allow a user to be able to make a choice on specific food choices]. 
-
-### Key Features:
-1. The ability to input a specific time and food choices are then displayed
-2. The different meal cgoices displayed depending on whether the time is AM or PM
-
-These features aim to provide [an easier experience when it comes to picking out food depending on the time].
-```
-
+The flashcard App is created with the intention of allowing a user to answer questions based of history and systems have been implemented for the user to answer said questions as well review their scores.
 
 ```markdown
 ## Design Considerations
