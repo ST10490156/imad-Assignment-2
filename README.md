@@ -6,9 +6,10 @@
 - **Subject**: IMAD5112
 
 ```markdown
-## Links
-- **GitHub Repository**: [https://github.com/ST10490156/imad-Assignment-2.git]
-- **YouTube Video**: []
+ Links
+- GitHub Repository: [https://github.com/ST10490156/imad-Assignment-2.git]
+- YouTube Video: []
+
 ```
 
 
@@ -16,7 +17,6 @@
 ```markdown
 The flashcard App is created with the intention of allowing a user to answer questions based of history and systems have been implemented for the user to answer said questions as well review their scores.
 
-```markdown
 ## Design Considerations
 
 The design of the **[Meal Suggestion App]** was based on the following key considerations:
