@@ -50,48 +50,16 @@ The workflow ensures that my project is automatically built and tested every tim
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1](https://github.com/VCSTDN2024/imad-assignment-1-ST10490156/blob/3f306191f94e8ab52a3fbc366e0998ba1f3e8566/Screenshot%201.png)
+![Screenshot 1]()
 [It displays the general layout of the home page aswell as the codes that determine colors and text considarations"]*
 
-![Screenshot 2](https://github.com/VCSTDN2024/imad-assignment-1-ST10490156/blob/9ec1088f5d174f408fc02fda04e11a083c647ada/Screenshot%202.png)
+![Screenshot 2]()
 [The code that allows input actions to be made so a certain suggestion is displayed"]*
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: [https://youtu.be/93p7RCbwEOU].
+A video showcasing the app's functionality can be viewed here: [].
 ```
 
-
----
-
-
-
-```markdown
-## Challenges and Learnings
-
-During the development of this project, I encountered several challenges, including:
-
-1. **Challenge 1**: [Implementing the if else function"]
-   - **Solution**: [I used Chatgpt and online books to help with the implementing of the if else function"]
-   
-2. **Challenge 2**: [The error codes kept appearing"]
-   - **Solution**: [Changed the layout and the code on which fixed the erreors"]
-
-From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
-```
-
-
-
-```markdown
-## Future Enhancements
-
-While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
-
-1. *[The ability or availability that allows a user to pick thier own foods from a drop down list"]
-2. *[A user is able to input not just time but also a day or date]
-3. *[Allowing the app to be used on all mobile devices e.g. ios, android, huawei"]
-
-These enhancements would improve the app’s usability and make it even more versatile for end-users.
-```
 
 ---
 
@@ -132,6 +100,6 @@ In the development of this project, I have used generative AI tools to assist in
 -  AI used on **May19, 2025** for brainstorming feature ideas.
 
 ### 5. Link to the AI Chat(s):
-- [Link to the AI conversation/chat](https://chatgpt.com/)  
+- [Link to the AI conversation/chat]()  
   
-- [Link to the AI conversation/chat](https://chatgpt.com/)  
+- [Link to the AI conversation/chat]()  
