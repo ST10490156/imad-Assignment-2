@@ -53,8 +53,10 @@ The workflow ensures that my project is automatically built and tested every tim
 ![Screenshot 1](https://github.com/ST10490156/imad-Assignment-2/blob/631ac6e6715db8308a4135c24db4307bc46a8aeb/Screenshot%202025-05-20%20115233.png)
 [It displays the general layout of the home page aswell as the codes that determine colors and text considarations"]*
 
-![Screenshot 2]()
-["]*
+![Screenshot 2](https://github.com/ST10490156/imad-Assignment-2/blob/35f0c6afc79137e85a9e5d78093344d3d081ed76/Screenshot%202025-05-20%20115331.png)
+["It displays the flashcard screen in which questions will be displayed"]*
+
+![Screenshot 3]()
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [].
