@@ -56,7 +56,8 @@ The workflow ensures that my project is automatically built and tested every tim
 ![Screenshot 2](https://github.com/ST10490156/imad-Assignment-2/blob/35f0c6afc79137e85a9e5d78093344d3d081ed76/Screenshot%202025-05-20%20115331.png)
 ["It displays the flashcard screen in which questions will be displayed"]*
 
-![Screenshot 3]()
+![Screenshot 3](https://github.com/ST10490156/imad-Assignment-2/blob/a1f82961bc21a7586faee0fd2956fae8301f58dd/Screenshot%202025-05-20%20115417.png)
+["It displays the score screen which allows the user to review their results for the quiz"]
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [].
