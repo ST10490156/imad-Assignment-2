@@ -103,6 +103,5 @@ In the development of this project, I have used generative AI tools to assist in
 -  AI used on **May19, 2025** for brainstorming feature ideas.
 
 ### 5. Link to the AI Chat(s):
-- [Link to the AI conversation/chat]()  
+- [Link to the AI conversation/chat](https://chatgpt.com/share/682ca37c-db38-800a-8059-5bdc99bfe3bf)  
   
-- [Link to the AI conversation/chat]()  
