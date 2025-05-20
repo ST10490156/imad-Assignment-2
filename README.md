@@ -50,11 +50,11 @@ The workflow ensures that my project is automatically built and tested every tim
 ## Screenshots
 
 ### App Screenshots:
-![Screenshot 1]()
+![Screenshot 1](https://github.com/ST10490156/imad-Assignment-2/blob/631ac6e6715db8308a4135c24db4307bc46a8aeb/Screenshot%202025-05-20%20115233.png)
 [It displays the general layout of the home page aswell as the codes that determine colors and text considarations"]*
 
 ![Screenshot 2]()
-[The code that allows input actions to be made so a certain suggestion is displayed"]*
+["]*
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [].
