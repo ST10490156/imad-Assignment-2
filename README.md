@@ -63,25 +63,10 @@ The workflow ensures that my project is automatically built and tested every tim
 ---
 
 
-
-```markdown
-
-
 1. [[1]] Späth, P. (2024). *Learn Kotlin for Android Development*. Apress Berkeley,CA]
 2. [[1]] Chatterjee, A. (2024). *If-Else Expression in Kotlin*. (https://www.baeldung.com/kotlin/if-else-expression)]
 ```
 
-
-
-
-```markdown
-## List of Figures
-
-- **Figure 1**: Screenshot of the app's home screen.
-- **Figure 2**: Screenshot of the user profile screen.
-```
-
----
 
 
 
