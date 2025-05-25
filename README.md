@@ -9,7 +9,7 @@
  Links
 
 - GitHub Repository: [https://github.com/ST10490156/imad-Assignment-2.git]
-- YouTube Video: []
+- YouTube Video: [https://youtu.be/PmE06yiOES0]
 
 ```
 
